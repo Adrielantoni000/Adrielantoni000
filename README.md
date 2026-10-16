@@ -9,11 +9,9 @@
   <img src="https://img.shields.io/badge/Bayamón-Puerto%20Rico-4f46e5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bayamón, Puerto Rico">
   <img src="https://img.shields.io/badge/Open%20to-work-22c55e?style=for-the-badge" alt="Open to work">
 </p>
-<!-- Cuando esté publicado el portfolio en Pages, descomenta:
 <p align="center">
   <a href="https://adrielantoni000.github.io"><img src="https://img.shields.io/badge/View%20portfolio%20→-141824?style=for-the-badge&logo=githubpages&logoColor=white" alt="View portfolio"></a>
 </p>
--->
 
 ### 👋 About me
 
